@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #f0f0f0;
+}
+
+h1{
+    font-size: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(66, 4, 66);
+}
+
+#app {
+    text-align: center;
+    background-color: rgb(246, 213, 246);
+    border-radius: 20px;
+    padding: 20px;
+}
+
+input {
+    margin: 10px;
+    padding: 5px;
+    width: 350px;
+    height: 35px;
+    border-radius: 5px;
+    font-size: 20px;
+}
+
+.temp{
+    font-size: 25px;
+    margin-left: 40PX;
+}
